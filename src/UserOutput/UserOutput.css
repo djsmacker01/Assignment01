@@ -1,0 +1,12 @@
+.userOutput{
+  width: 50%;
+  margin: 10px;
+  background-color: grey;
+  border: 2px solid black;
+  text-align: center;
+  padding: 10px;
+}
+.username{
+  font-weight: 700;
+  font-size: medium;
+}
